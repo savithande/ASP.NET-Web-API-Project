@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\bin\Release\EmployeeManagementAccess.dll.config
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\bin\Release\EmployeeManagementAccess.dll
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\bin\Release\EmployeeManagementAccess.pdb
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\bin\Release\EntityFramework.dll
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\bin\Release\EntityFramework.xml
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\obj\Release\EmployeeManagementAccess.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\obj\Release\EmployeeManagementAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\obj\Release\EmployeeManagementAccess.csproj.CopyComplete
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\obj\Release\EmployeeManagementAccess.dll
+C:\Users\user\source\repos\EmployeeServiceDetails\EmployeeManagementAccess\obj\Release\EmployeeManagementAccess.pdb
